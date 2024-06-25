@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+#errorurl{
+    color:red;
+    text-align: center;
+    font-size: 100px;
+    background-color: black;
+}
+.navel {
+    color: black;
+    text-decoration: none;
+}
+.navel:active{
+    color: aqua;
+}
+#navbar{
+    background-color: bisque;
+   padding-right: 20px;
+    height:7vh ;
+    display: flex;
+    justify-content: right;
+   align-items:center ;
+   gap: 20px;
+    
+}
